@@ -1,2 +1,2 @@
-# snn-doc-test
-Testing out some documentation options
+# SNN Wiki
+Wiki for the MacLean lab SNN infrastructure.
